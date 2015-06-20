@@ -1,0 +1,6 @@
+This code works with the Sponge API which is for making Minecraft plugins.
+I followed the directions at https://docs.spongepowered.org/ to set up the 
+NetBeans IDE using Maven and the Sponge (coremod) version. When the plugin is 
+added to the server it displays its name at start up in the console. It really 
+just serves as a check that all the dependences are included before moving on 
+to something a bit more useful.
